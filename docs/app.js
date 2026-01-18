@@ -12,7 +12,7 @@ const rawUrl = (path) =>
   `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${BRANCH}/${path}`;
 
 function isStudentId(s) {
-  return /^[A-Za-z0-9]{10}$/.test(s);
+  return /^[A-Za-z0-9]{9}$/.test(s);
 }
 
 async function fetchJson(url) {
