@@ -1,17 +1,17 @@
 # baseball-comic-obsidian（課程協作 Repo）
 
 本 Repo 用於『愛（AI）看野球番：以生成式AI打造「棒球漫畫」互動導覽』五日課程的資料協作。課程moodle: https://moodle.ncku.edu.tw/course/view.php?id=55256
-每位同學會在自己的筆電上使用 Obsidian 整理資料，並透過 GitHub Desktop 提交到本 Repo，最後由課程網站（GitHub Pages）讀取 `data/` 內資料，協助產生可餵給 ChatGPT / Gemini 的漫畫故事腳本。
+每位同學會在自己的筆電上使用 Obsidian 整理資料，並透過 GitHub Desktop 提交到本 Repo，最後由課程網站（GitHub Pages）https://ycshu.github.io/baseball-comic-obsidian/ 讀取 `data/` 內資料，協助產生可餵給 ChatGPT / Gemini 的漫畫故事腳本。
 
 ---
 
-## Day 2 你要完成什麼（每人必做）
+## Day 2 你要完成什麼？這是一個每個人都有的作業，老師會依完成度來評分，**不是有完成就滿分**，會看你提供的資料量，完整度，也包含你在上傳時commit的註解，是否有違反協作的規定等等(如修改到其他同學的資料)。
 
-1. 用 GitHub Desktop **Clone** 本 Repo 到你的電腦
+1. 用 GitHub Desktop **Clone** 本 Repo https://github.com/ycshu/baseball-comic-obsidian.git 到你的電腦
 2. 建立你的個人分支（branch）：`data-你的學號`
-3. 在 `data/students/<9碼學號>/` 建立你的資料夾與 vault
-4. 把你原本的 Obsidian vault **搬到指定位置**
-5. 一鍵產生 `index.json`
+3. 在你的電腦上，該repo的 `data/students/<9碼學號>/` 建立你的資料夾與 vault
+4. 把你原本的 Obsidian vault **搬到上述資料夾中的位置**
+5. 透過 export.py (可以自行與生成式AI協作，整理你的資料) 產生 `index.json` 
 6. Commit + Push
 7. 建立 Pull Request（PR）
 
@@ -73,16 +73,16 @@
 請在 repo 內建立：
 
 data/students/你的學號/
-├─ vault/
-├─ export.py
-├─ run_export.bat (Windows)
-├─ run_export.command (macOS)
-└─ sources.md
+├─ vault/  (你在 obsidian 中所建立的資料夾就是選擇放這裡)
+├─ export.py (可從tools/export/中複製)
+├─ run_export.bat (Windows) (可從tools/export/中複製)
+├─ run_export.command (macOS) (可從tools/export/中複製)
+└─ sources.md (資料來源與授權說明)
 
 
 重要規範（必讀）：
 - `你的學號` 必須是 **9 碼英數字**
-- 你的資料必須放在 `data/students/` 底下
+- 你的資料必須放在 `data/students/你的學號/` 底下
 - 每人只改自己的資料夾，避免衝突
 
 ---
@@ -100,7 +100,7 @@ data/students/你的學號/
 
 ---
 
-### Step 5｜一鍵產生 index.json（不用打指令）
+### Step 5｜產生 index.json（不用打指令）
 
 在 `data/students/你的學號/` 內執行：
 
@@ -110,6 +110,8 @@ data/students/你的學號/
 成功標誌：
 - 出現 `index.json`
 
+你需要與生成式AI討論怎麼修改 export.py ，來將你在obsidian中所整理的資料，匯整成將來可以被查詢的樣態
+
 ---
 
 ### Step 6｜Commit + Push + Pull Request(PR)
@@ -117,7 +119,7 @@ data/students/你的學號/
 1. 回到 GitHub Desktop
 2. Summary 輸入：`Add dataset for 你的學號`
 3. Commit to `data-你的學號`
-4. Push origin
+4. Push origin (Ctrl+P)
 5. Create Pull Request（PR）
 
 ---
@@ -135,7 +137,7 @@ data/students/你的學號/
 
 - 遇到問題先看：debug/README.md
 - 學號不是 9 碼英數字 → 網頁掃不到
-- 資料夾放錯層級（不在 data/students/）→ 網頁掃不到
+- 資料夾放錯層級（不在 `data/students/你的學號`）→ 網頁掃不到
 - 沒有產生 index.json → PR 合併後也無法被網站讀取
 - 不要改別人的資料夾或系統檔案（只改自己的學號資料夾）
 
@@ -149,4 +151,5 @@ Repo 內提供標準版匯出工具（請複製到你的學號資料夾使用）
 - export.py
 - run_export.bat（Windows）
 - run_export.command（macOS）
+- source.md (範例)
 
