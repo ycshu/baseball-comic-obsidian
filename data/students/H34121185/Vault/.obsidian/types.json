@@ -10,6 +10,7 @@
     "身高": "number",
     "體重": "number",
     "經歷說明": "text",
-    "出場集數": "multitext"
+    "出場集數": "multitext",
+    "初出場": "date"
   }
 }
