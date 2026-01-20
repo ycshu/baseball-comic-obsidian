@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "初版日期": "date",
+    "是否閱讀": "checkbox",
+    "生日": "date",
+    "性癖": "multitext",
+    "28 初版日期": "date",
+    "29 初版日期": "date"
+  }
+}

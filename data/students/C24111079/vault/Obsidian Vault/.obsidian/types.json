@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "人物": "text",
+    "發生時間": "date",
+    "是否閱讀": "checkbox",
+    "是否檢舉": "checkbox",
+    "生日": "date"
+  }
+}
