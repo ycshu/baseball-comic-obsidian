@@ -1,3 +1,4 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "attachmentFolderPath": "未命名"
 }
