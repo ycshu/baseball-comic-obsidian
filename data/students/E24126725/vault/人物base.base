@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "人物"
+    order:
+      - file.name
+      - 原文姓名
+      - 生日
+      - 性別
+      - 身高
+      - 體重
+      - 出生地點
+      - 守備位置
+      - 投打習慣
+    sort:
+      - property: 體重
+        direction: ASC
