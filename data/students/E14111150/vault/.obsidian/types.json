@@ -5,6 +5,7 @@
     "tags": "tags",
     "出版日期": "date",
     "初版日期": "date",
-    "是否閱讀": "checkbox"
+    "是否閱讀": "text",
+    "職業生涯": "text"
   }
 }
