@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "附件",
+  "readableLineLength": false
 }
