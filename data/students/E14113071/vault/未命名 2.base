@@ -1,0 +1,14 @@
+properties:
+  file.name:
+    displayName: 名稱
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.backlinks
+    sort: []
+  - type: table
+    name: 檢視
+    sort:
+      - property: file.name
+        direction: ASC

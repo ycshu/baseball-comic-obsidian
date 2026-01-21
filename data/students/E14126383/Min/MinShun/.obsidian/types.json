@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "書名": "multitext",
+    "是否閱讀": "checkbox",
+    "初版日期": "date"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "exported_at": "2026-01-21T14:36:49.147360",
+    "license_ok": true
+  },
+  "模板": [
+    {
+      "id": "閱讀模板",
+      "title": "閱讀模板",
+      "content": "---\n作者: \"[[安達充]]\"\n出版商: \"[[青文出版社]]\"\n初版日期: 2005-11-27\n原文出版商: \"[[日本小學館]]\"\n是否閱讀: false\n---\n# 引用格式\n\n# 閱讀心得"
+    },
+    {
+      "id": "人物模板",
+      "title": "人物模板",
+      "content": "---\n性別:\n國籍:\n生日:\n出生地:\n職業:\n---"
+    }
+  ],
+  "人物": [],
+  "資訊": [
+    {
+      "id": "日本小學館",
+      "title": "日本小學館",
+      "content": ""
+    },
+    {
+      "id": "青文出版社",
+      "title": "青文出版社",
+      "content": ""
+    },
+    {
+      "id": "National Cheng Kung University",
+      "title": "National Cheng Kung University",
+      "content": "# 老師\n\n[[張哲維]]\n[[舒宇宸]]\n[[謝仕淵]]"
+    },
+    {
+      "id": "台北市",
+      "title": "台北市",
+      "content": ""
+    }
+  ]
+}
