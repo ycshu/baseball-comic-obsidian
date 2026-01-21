@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 import sys
 
-VAULT_DIR = Path("vault")
+VAULT_DIR = Path("Baseball")
 OUT_FILE = Path("index.json")
 
 def die(msg):
@@ -32,9 +32,9 @@ def main():
             "exported_at": datetime.now().isoformat(),
             "license_ok": True
         },
-        "players": load_md_files(VAULT_DIR / "players"),
-        "events": load_md_files(VAULT_DIR / "events"),
-        "glossary": load_md_files(VAULT_DIR / "glossary")
+        "模板": load_md_files(VAULT_DIR / "模板"),
+        "人物": load_md_files(VAULT_DIR / "人物"),
+        "資訊": load_md_files(VAULT_DIR / "資訊")
     }
 
     OUT_FILE.write_text(
