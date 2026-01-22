@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "出生": "date",
+    "出生日期": "date",
+    "現年": "number",
+    "身高": "number",
+    "體重": "text"
+  }
+}
