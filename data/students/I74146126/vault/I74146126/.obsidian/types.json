@@ -4,6 +4,11 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "出版日期": "date",
-    "是否閱讀": "checkbox"
+    "是否閱讀": "checkbox",
+    "初登場": "date",
+    "生日": "date",
+    "背號": "number",
+    "身高/體重": "text",
+    "年齡": "number"
   }
 }
