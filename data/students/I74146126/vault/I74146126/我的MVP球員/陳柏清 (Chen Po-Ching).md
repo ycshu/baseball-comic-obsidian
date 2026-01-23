@@ -15,7 +15,7 @@
 投打習慣: 左投左打(對左打者有壓制優勢)
 守備位置: 投手(斜肩投球)
 最快球速: 151 km/h
-擅長球路: "[[滑球、變速球、控球]]"
+擅長球路: "[[球路分析]]"
 初登場: 2024/04/06
 選秀順位: 台鋼雄鷹 2022年第八輪
 個人特殊獎項: "中華職棒二軍三振王：2023\r                                                                                                               中華職棒二軍防禦率王：2023"
@@ -28,8 +28,9 @@ tags:
   - "#國家隊"
   - "#王牌投手"
 ---
-![[Pasted image 20260122000449.png|300]]
-[^10]
+![[Pasted image 20260122212942.png|300]]
+[^14]
+![test]([https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878](https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878))
 ## 關於陳柏清 (Chen Po-Ching)
 >陳柏清，綽號「柏青哥」，是臺灣職業棒球選手，守備位置為投手，目前效力於中華職棒台鋼雄鷹。他是台鋼雄鷹隊史首位本土先發勝投得主，並以「後天改造左投」與「選秀後段班逆襲」的勵志故事聞名。
 #### <font color="#4f81bd">個人特色</font>
@@ -51,7 +52,7 @@ tags:
 
     陳柏清的投球風格屬於斜肩式左投，球路以滑球和變速球為主要變化球種。
 
-1. **滑球**：是他對付左右打者的主要武器，具備足夠的橫向位移。
+1. **滑球**：是他對付左右打者的主要武器，具備足夠的橫向位移。(可以用雙向連結)
 
 2. **變速球**：是他用來擾亂打者節奏的關鍵球種，特別是在球數領先時。
 
@@ -101,6 +102,8 @@ tags:
 5. **業餘**：安永鮮物棒球隊
 6. **職棒**：[[台鋼雄鷹]] (2022/09 - )
 [^7][^8]
+#### <font color="#4f81bd">其他想法</font>
+###### [[我眼中的陳柏清]]
 #### <font color="#4f81bd">參考資料</font>
 [^1]: 黃照敦（2024年2月29日）。
     *中職》揮別傷痛、放棄進台電陳柏清翻轉人生*。自由體育。[[https://sports.ltn.com.tw/news/breakingnews/4593335 ]]
@@ -139,18 +142,6 @@ tags:
 
 [^12]: 中華職業棒球大聯盟（無日期）。
     _陳柏清個人成績表_。[https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### 以陳柏清為主題的微短篇漫畫
-![[Pasted image 20260122101457.png]]
+    
+[^14]: TSNA 體育新聞團隊（無日期）。
+    _台鋼雄鷹投手陳柏清投球姿態_ [照片]。Yahoo 奇摩運動。[https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878](https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878)
