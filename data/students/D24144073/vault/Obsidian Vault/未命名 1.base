@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("你的草稿")
+    order:
+      - file.name
+      - 原文出版社
+      - 書名
+      - 譯者
+      - 作者
+      - 出版時間
+    sort:
+      - property: 譯者
+        direction: ASC
