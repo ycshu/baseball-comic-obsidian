@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "現役": "checkbox",
+    "初出場": "date",
+    "生日": "date"
+  }
+}
