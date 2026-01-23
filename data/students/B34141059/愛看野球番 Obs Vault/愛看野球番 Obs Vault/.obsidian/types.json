@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "人物": "multitext",
+    "生日": "date",
+    "體重": "number",
+    "身高": "number",
+    "綽號": "multitext",
+    "背號": "number",
+    "最快球速": "number",
+    "日期": "date"
+  }
+}

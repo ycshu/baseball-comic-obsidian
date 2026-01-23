@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 import sys
 
-VAULT_DIR = Path("vault")
+VAULT_DIR = Path("愛看野球番 Obs Vault")
 OUT_FILE = Path("index.json")
 
 def die(msg):
