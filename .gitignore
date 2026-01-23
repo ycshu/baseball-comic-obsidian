@@ -7,3 +7,5 @@
 # OS junk
 .DS_Store
 Thumbs.db
+/data/students/A12345678/vault/.obsidian
+/data/.obsidian

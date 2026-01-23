@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "exported_at": "2026-01-20T11:54:31.319275",
+    "license_ok": true
+  },
+  "players": [
+    {
+      "id": "古賀春華",
+      "title": "古賀春華",
+      "content": ""
+    },
+    {
+      "id": "國見比呂",
+      "title": "國見比呂",
+      "content": "---\n生日:\n學校: 千川高中\n---"
+    },
+    {
+      "id": "安達充",
+      "title": "安達充",
+      "content": ""
+    },
+    {
+      "id": "木根龍太郎",
+      "title": "木根龍太郎",
+      "content": ""
+    },
+    {
+      "id": "橘英雄",
+      "title": "橘英雄",
+      "content": "平井國小\n白山天使隊第四棒"
+    },
+    {
+      "id": "雨宮光",
+      "title": "雨宮光",
+      "content": ""
+    }
+  ],
+  "events": [],
+  "glossary": []
+}

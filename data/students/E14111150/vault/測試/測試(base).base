@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+    sort:
+      - property: formula.未命名
+        direction: DESC

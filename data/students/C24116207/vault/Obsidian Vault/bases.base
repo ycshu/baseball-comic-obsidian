@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("人物")
+    order:
+      - file.name
+      - 身高
+      - 體重
+      - 血型
+      - 生日
+    sort:
+      - property: file.name
+        direction: ASC
