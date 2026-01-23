@@ -104,7 +104,13 @@ tags:
 [^7][^8]
 #### <font color="#4f81bd">其他想法</font>
 ###### [[我眼中的陳柏清]]
-#### <font color="#4f81bd">參考資料</font>
+
+#### <font color="#4f81bd">資料來源與授權說明</font>
+##### 資料整理者
+    -學號：I74146126
+    -姓名：黃欣宥
+    -課程：棒球漫畫生成專題
+##### 資料來源
 [^1]: 黃照敦（2024年2月29日）。
     *中職》揮別傷痛、放棄進台電陳柏清翻轉人生*。自由體育。[[https://sports.ltn.com.tw/news/breakingnews/4593335 ]]
 
@@ -145,3 +151,11 @@ tags:
     
 [^14]: TSNA 體育新聞團隊（無日期）。
     _台鋼雄鷹投手陳柏清投球姿態_ [照片]。Yahoo 奇摩運動。[https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878](https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878)
+
+##### 使用方式說明
+    - 本資料僅作為課程學習與非商業用途
+    - 資料內容由學生自行整理、摘要與重述
+    - 未直接重製受版權保護之原文段落
+##### AI 使用聲明
+    - 本資料可能用於 AI 生成故事與漫畫腳本
+    - 僅輸入經學生整理後的摘要內容
