@@ -20,9 +20,9 @@
 ## 經歷
 ### 1. 早期生涯與加入道奇
 
-- **2006年：** 高中畢業後，在選秀第一輪第7順位被洛杉磯道奇隊選中，隨後開啟職業生涯。涯 [[MLB.com](https://www.mlb.com/player/clayton-kershaw-477132)]。
+- **2006年：** 高中畢業後，在選秀第一輪第7順位被洛杉磯道奇隊選中，隨後開啟職業生涯。涯 [MLB.com](https://www.mlb.com/player/clayton-kershaw-477132)。
     
-- **2008年：** 5月25日以20歲之齡登上大聯盟，成為當時聯盟最年輕的球員。[[Baseball-Reference](https://www.baseball-reference.com/players/k/kershcl01.shtml)]。
+- **2008年：** 5月25日以20歲之齡登上大聯盟，成為當時聯盟最年輕的球員[Baseball-Reference](https://www.baseball-reference.com/players/k/kershcl01.shtml)。
     
 - **2010年：** 投出職業生涯首場完封勝。
     
@@ -33,26 +33,26 @@
     
 - **2013年：** 以1.83的極低防禦率奪得第二座賽揚獎。
     
-- **2014年：** 迎來職業生涯巔峰，同年包攬**國聯MVP**與**賽揚獎**（歷史上少數能達成此成就的投手）[[Baseball-Reference/Awards](https://www.baseball-reference.com/awards/awards_2014.shtml)]。，並在6月18日對陣科羅拉多落磯隊時投出**無安打比賽**。[[MLB News](https://www.google.com/search?q=https://www.mlb.com/news/clayton-kershaw-throws-first-career-no-hitter/c-79946452)]。
+- **2014年：** 迎來職業生涯巔峰，同年包攬**國聯MVP**與**賽揚獎**（歷史上少數能達成此成就的投手）[Baseball-Reference/Awards](https://www.baseball-reference.com/awards/awards_2014.shtml)]，並在6月18日對陣科羅拉多落磯隊時投出**無安打比賽**[MLB News](https://www.google.com/search?q=https://www.mlb.com/news/clayton-kershaw-throws-first-career-no-hitter/c-79946452)。
     
 - **2011–2014年：** 創下連續四年奪得國聯防禦率王的紀錄。
     
-- **2015年：** 單季投出301次三振，成為自2002年後首位達成單季300K的投手[[ESPN Stats](https://www.espn.com/mlb/stats)]。。
+- **2015年：** 單季投出301次三振，成為自2002年後首位達成單季300K的投手[ESPN Stats](https://www.espn.com/mlb/stats)。
     
 
 ### 3. 追求冠軍與紀錄達成
 
 - **2020年：** 縮減球季中幫助道奇隊奪得睽違32年的**世界大賽冠軍**，成功擺脫季後賽表現不佳的質疑。
     
-- **2022年：** 成為道奇隊史三振王[[MLB.com/News](https://www.google.com/search?q=https://www.mlb.com/news/clayton-kershaw-dodgers-all-time-strikeout-leader)]；5月曾因傷進入傷兵名單，但隨後回歸並入選明星賽。
+- **2022年：** 成為道奇隊史三振王[MLB.com/News](https://www.google.com/search?q=https://www.mlb.com/news/clayton-kershaw-dodgers-all-time-strikeout-leader)；5月曾因傷進入傷兵名單，但隨後回歸並入選明星賽。
     
 - **2025年：** * 7月3日投出生涯**第3000次三振**，成為大聯盟歷史上第20位（左投第4位）達成此里程碑的球員。
     
-    - 9月18日宣佈於球季結束後引退[[AP News](https://apnews.com/article/clayton-kershaw-retiring-8b130f05c84a966b93118309a8498d63)]。。
+    - 9月18日宣佈於球季結束後引退[AP News](https://apnews.com/article/clayton-kershaw-retiring-8b130f05c84a966b93118309a8498d63)。
         
-    - 隨後幫助道奇隊再次奪得**世界大賽冠軍**[[Yahoo Sports](https://sports.yahoo.com/mlb/)]，為生涯畫下完美句點。
+    - 隨後幫助道奇隊再次奪得**世界大賽冠軍**[Yahoo Sports](https://sports.yahoo.com/mlb/)，為生涯畫下完美句點。
         
-- **2026年：** 引退後接受徵召，生涯首度代表美國隊出戰**世界棒球經典賽（WBC）**[[USA Baseball](https://www.usabaseball.com/)]。。
+- **2026年：** 引退後接受徵召，生涯首度代表美國隊出戰**世界棒球經典賽（WBC）**[USA Baseball](https://www.usabaseball.com/)。
     
 
 ---
@@ -107,14 +107,7 @@ https://en.wikipedia.org/wiki/Clayton_Kershaw
 ## 漫畫
 
 **主題**「長年季後賽陰影，終於在世界大賽被放下的一刻」
-
-**核心對比**：
-
-- 過去：失敗、標籤、質疑
-    
-- 現在：冷靜、專注、完成任務
-    
-- 結果：不是狂喜，而是「解脫」
+本作品以 2020 年世界大賽為背景，透過漫畫形式呈現科蕭在輿論壓力與自我懷疑下，如何完成心理層面的轉變，將勝利重新定義為「與自己和解」。
 
 ![[ChatGPT Image 2026年1月21日 修改完成5.jpg]]
 
