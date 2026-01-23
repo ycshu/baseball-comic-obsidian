@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "出版日期": "date",
-    "是否閱讀": "checkbox"
+    "是否閱讀": "checkbox",
+    "現役與否": "checkbox",
+    "初出場": "date"
   }
 }
