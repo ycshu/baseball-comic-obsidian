@@ -1,0 +1,29 @@
+{
+  "calendars": [],
+  "fieldFormat": "full-calendar",
+  "muted": false,
+  "timerEvent": "notification",
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": true,
+  "groupBy": "path",
+  "dayStartEnd": [
+    0,
+    24
+  ],
+  "twentyFourHourFormat": true,
+  "filterFunction": "",
+  "addTaskToEnd": true,
+  "extendBlocks": false,
+  "hideTimes": false,
+  "borders": true,
+  "viewMode": "day",
+  "scheduledSubtasks": true,
+  "openInMain": true
+}
