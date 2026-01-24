@@ -6,6 +6,10 @@
     "作者": "text",
     "出版日期": "date",
     "是否閱讀": "checkbox",
-    "人物": "text"
+    "人物": "text",
+    "出生日期": "date",
+    "背號": "number",
+    "體重(kg)": "number",
+    "身高(cm)": "number"
   }
 }

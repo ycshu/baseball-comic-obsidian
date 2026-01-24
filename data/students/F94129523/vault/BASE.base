@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ext
+      - file.mtime
+      - file.folder
+      - file.tags
+    columnSize:
+      file.folder: 100
