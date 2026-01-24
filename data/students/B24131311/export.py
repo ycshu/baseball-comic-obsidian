@@ -32,9 +32,8 @@ def main():
             "exported_at": datetime.now().isoformat(),
             "license_ok": True
         },
-        "players": load_md_files(VAULT_DIR / "players"),
-        "events": load_md_files(VAULT_DIR / "events"),
-        "glossary": load_md_files(VAULT_DIR / "glossary")
+        "baseball related info": load_md_files(VAULT_DIR / "baseball"),
+        "course reflection": load_md_files(VAULT_DIR / "course reflection"),
     }
 
     OUT_FILE.write_text(
