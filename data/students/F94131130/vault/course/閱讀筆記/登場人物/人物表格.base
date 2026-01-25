@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "course/閱讀筆記/登場人物"
+    order:
+      - file.name
+      - 出生地
+      - 性別
+      - 生日
+      - 血型
+      - 身高(cm)
+      - 體重(kg)
+      - 星座
+      - 配偶

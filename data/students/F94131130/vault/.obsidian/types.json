@@ -5,6 +5,7 @@
     "tags": "tags",
     "初版日期": "date",
     "是否閱讀": "checkbox",
-    "生日": "date"
+    "生日": "date",
+    "日本初版日期": "date"
   }
 }
