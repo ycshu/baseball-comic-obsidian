@@ -7,45 +7,45 @@
 
 ## 資料來源
 - 黃照敦（2024年2月29日）。
-    *中職》揮別傷痛、放棄進台電陳柏清翻轉人生*。自由體育。[[https://sports.ltn.com.tw/news/breakingnews/4593335 ]]
+  中職》揮別傷痛、放棄進台電陳柏清翻轉人生。自由體育。[[https://sports.ltn.com.tw/news/breakingnews/4593335 ]]
 
 - Yahoo奇摩運動（2024年11月24日）。
-    _關於陳柏清的「15個秘密」！原本只想打業餘？_  Yahoo運動[[https://tw.sports.yahoo.com/news/090614896.html]]
+  _關於陳柏清的「15個秘密」！原本只想打業餘？_ Yahoo運動[[https://tw.sports.yahoo.com/news/090614896.html]]
 
 - 謝靜雯（2024年11月25日 ）。
-    *陳柏清12強賽學經驗 澄清沒落淚是太在意想表現*。中央通訊社。[[https://www.cna.com.tw/news/aspt/202411250383.aspx]]
+  陳柏清12強賽學經驗 澄清沒落淚是太在意想表現。中央通訊社。[[https://www.cna.com.tw/news/aspt/202411250383.aspx]]
 
 - 中華職業棒球大聯盟（無日期）。
-    _陳柏清個人成績表_。
-    [https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
+  _陳柏清個人成績表_。
+  [https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
 
 - 野球革命（無日期）。
-    _陳柏清進階投球數據分析_。
-    [https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher](https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher)
+  _陳柏清進階投球數據分析_。
+  [https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher](https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher)
 
 - 謝靜雯（2024年11月25日）。
-    _陳柏清12強賽學經驗 澄清沒落淚是太在意想表現_。中央通訊社。[https://www.cna.com.tw/news/aspt/202411250383.aspx](https://www.cna.com.tw/news/aspt/202411250383.aspx)
+   _陳柏清12強賽學經驗 澄清沒落淚是太在意想表現_。中央通訊社。[https://www.cna.com.tw/news/aspt/202411250383.aspx](https://www.cna.com.tw/news/aspt/202411250383.aspx)
 
 - 台灣棒球維基館（無日期）。
-    _陳柏清_。
-    [http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%99%B3%E6%9F%8F%E6%B8%85](http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%99%B3%E6%9F%8F%E6%B8%85)
+  _陳柏清_。
+  [http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%99%B3%E6%9F%8F%E6%B8%85](http://twbsball.dils.tku.edu.tw/wiki/index.php/%E9%99%B3%E6%9F%8F%E6%B8%85)
 
 - 中華職業棒球大聯盟（無日期）。
-    _陳柏清個人成績表_。
-    [https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
+  _陳柏清個人成績表_。
+  [https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
 
 - 林正堃（2024年5月14日）。
-    _台鋼雄鷹隊投手陳柏清於桃園國際棒球場投球_ [照片]。自由時報。[https://sports.ltn.com.tw/news/breakingnews/4672696](https://sports.ltn.com.tw/news/breakingnews/4672696)
+  _台鋼雄鷹隊投手陳柏清於桃園國際棒球場投球_ [照片]。自由時報。[https://sports.ltn.com.tw/news/breakingnews/4672696](https://sports.ltn.com.tw/news/breakingnews/4672696)
 
 - 野球革命（無日期）。
-    _陳柏清進階投球數據分析_。
-    [https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher](https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher)
+  _陳柏清進階投球數據分析_。
+  [https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher](https://www.rebas.tw/player/nVk1Q?tab=Rzone&type=pitcher)
 
 - 中華職業棒球大聯盟（無日期）。
-    _陳柏清個人成績表_。[https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
+  _陳柏清個人成績表_。[https://cpbl.com.tw/team/person?Acnt=0000006832](https://cpbl.com.tw/team/person?Acnt=0000006832)
     
 - TSNA 體育新聞團隊（無日期）。
-    _台鋼雄鷹投手陳柏清投球姿態_ [照片]。Yahoo 奇摩運動。[https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878](https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878)
+  _台鋼雄鷹投手陳柏清投球姿態_ [照片]。Yahoo 奇摩運動。[https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878](https://s.yimg.com/ny/api/res/1.2/.Nftph02WdKT9QuN1V8PsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0MQ--/https://media.zenfs.com/ko/tsna.com.tw/8eb964dea73985540c162021f31b0878)
     NOWnews. (2025).
 - 強賽／堅持很難，但不要放棄！陳柏清踏上夢幻舞台 激勵台鋼小鷹 [Video].
   YouTube.https://youtu.be/zwh9H-pDWwE↩︎
