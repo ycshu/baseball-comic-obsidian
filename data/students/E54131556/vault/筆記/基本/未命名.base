@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("人物")
+    order:
+      - file.name
+      - 生日
+      - 身高(cm)
+      - 性別
+      - 經歷
+      - 體重(kg)
