@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "生日": "date",
+    "身高 (cm)": "number",
+    "體重 (kg)": "number",
+    "背號": "number",
+    "定價 (新台幣）": "number"
+  }
+}
