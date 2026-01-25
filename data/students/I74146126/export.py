@@ -50,7 +50,7 @@ def main():
         "ai_homework": load_md_files(VAULT_DIR / "AI課程作業"),
         "class_practice": load_md_files(VAULT_DIR / "上課操作"),
         "mvp_players": load_md_files(VAULT_DIR / "我的MVP球員"),
-        "others": load_md_files(VAULT_DIR / "l74146126") 
+        "others": load_md_files(VAULT_DIR / "I74146126") 
     }
 
     # 寫入 JSON 檔案
