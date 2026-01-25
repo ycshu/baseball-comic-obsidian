@@ -25,7 +25,7 @@ def load_md_files(folder):
 
 def main():
     if not VAULT_DIR.exists():
-        die("找不到 vault/ 資料夾，請確認你已把 Obsidian vault 放在正確位置")
+        die("找不到 Baseball/ 資料夾，請確認你已把 Obsidian Baseball 放在正確位置")
 
     data = {
         "meta": {
@@ -34,7 +34,11 @@ def main():
         },
         "模板": load_md_files(VAULT_DIR / "模板"),
         "人物": load_md_files(VAULT_DIR / "人物"),
-        "資訊": load_md_files(VAULT_DIR / "資訊")
+        "資訊": load_md_files(VAULT_DIR / "資訊"),
+        "插入圖片": load_md_files(VAULT_DIR / "插入圖片"),
+        "棒球大聯盟閱讀心得": load_md_files(VAULT_DIR / "棒球大聯盟閱讀心得"),
+        "每日筆記": load_md_files(VAULT_DIR / "每日筆記"),
+        "附件": load_md_files(VAULT_DIR / "附件"),
     }
 
     OUT_FILE.write_text(
