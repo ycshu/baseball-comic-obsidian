@@ -1,5 +1,4 @@
 import json
-import re
 from pathlib import Path
 from datetime import datetime
 import sys
@@ -9,92 +8,63 @@ VAULT_DIR = Path("vault")
 OUT_FILE = Path("index.json")
 
 def die(msg):
-    print(f" \033[91m[ERROR]\033[0m {msg}")
+    print(f"\n[ERROR] {msg}")
     input("按 Enter 鍵結束...")
     sys.exit(1)
 
-def parse_md_content(content):
-    """
-    解析 Markdown 內容，分離 YAML Frontmatter 與真正的內文
-    """
-    # 匹配 YAML 前言的正規表示式 (--- 內容 ---)
-    yaml_pattern = re.compile(r'^---\s*\n(.*?)\n---\s*\n', re.DOTALL)
-    match = yaml_pattern.match(content)
-    
-    frontmatter = {}
-    body = content
-    
-    if match:
-        # 這裡簡單處理 YAML (如果需要複雜處理，建議安裝 PyYAML)
-        yaml_text = match.group(1)
-        body = content[match.end():].strip()
-        # 簡單的 Key: Value 解析
-        for line in yaml_text.split('\n'):
-            if ":" in line:
-                k, v = line.split(":", 1)
-                frontmatter[k.strip()] = v.strip()
-                
-    return frontmatter, body
-
-def load_md_files(folder_name):
-    folder = VAULT_DIR / folder_name
+def load_md_files(folder):
+    """讀取指定資料夾下的所有 Markdown 檔案"""
     if not folder.exists():
-        print(f" [WARN] 找不到資料夾: {folder_name}，跳過中...")
+        print(f"[提示] 找不到資料夾：{folder.name}，已跳過。")
         return []
     
     items = []
-    # 使用 rglob 支援子資料夾中的 .md 檔案
+    # 使用 rglob 可以抓到子資料夾內的 .md 檔
     for p in folder.rglob("*.md"):
         try:
-            raw_text = p.read_text(encoding="utf-8").strip()
-            metadata, content = parse_md_content(raw_text)
-            
             items.append({
                 "id": p.stem,
-                "title": metadata.get("title", p.stem), # 優先使用 YAML 中的標題
-                "category": folder_name,
-                "path": str(p.relative_to(VAULT_DIR)),
-                "last_modified": datetime.fromtimestamp(p.stat().st_mtime).isoformat(),
-                "metadata": metadata,
-                "content": content
+                "title": p.stem,
+                "category": folder.name, # 紀錄它屬於哪個分類
+                "content": p.read_text(encoding="utf-8").strip()
             })
-            print(f"  - 已讀取: {p.name}")
+            print(f"  已讀取：{p.name}")
         except Exception as e:
-            print(f"  - [跳過] 讀取 {p.name} 時發生錯誤: {e}")
+            print(f"  [錯誤] 無法讀取 {p.name}: {e}")
             
     return items
 
 def main():
     if not VAULT_DIR.exists():
-        die(f"找不到 '{VAULT_DIR}' 資料夾，請確認它與此腳本放在同一個目錄下。")
+        die(f"找不到 '{VAULT_DIR}' 資料夾。請確認該資料夾與此程式放在同一個地方。")
 
-    print(f"🚀 開始處理 Vault: {VAULT_DIR.absolute()}")
+    print(f"🚀 開始掃描資料夾：{VAULT_DIR.absolute()}")
 
-    # 定義你想抓取的子目錄
-    target_folders = ["players", "events", "glossary"]
+    # 根據你的圖片，對應實際的資料夾名稱
     data = {
         "meta": {
-            "version": "1.1",
             "exported_at": datetime.now().isoformat(),
-            "source": str(VAULT_DIR)
-        }
+            "description": "Obsidian Vault Export"
+        },
+        # 修改這裡的名稱以符合你的圖片
+        "ai_homework": load_md_files(VAULT_DIR / "AI課程作業"),
+        "class_practice": load_md_files(VAULT_DIR / "上課操作"),
+        "mvp_players": load_md_files(VAULT_DIR / "我的MVP球員"),
+        "others": load_md_files(VAULT_DIR / "l74146126") 
     }
 
-    # 動態抓取資料
-    for folder in target_folders:
-        print(f"🔎 正在掃描 {folder}...")
-        data[folder] = load_md_files(folder)
-
-    # 寫入 JSON
+    # 寫入 JSON 檔案
     try:
         OUT_FILE.write_text(
             json.dumps(data, ensure_ascii=False, indent=2),
             encoding="utf-8"
         )
-        print("-" * 30)
-        print(f"🎉 成功！檔案已產生於: {OUT_FILE.absolute()}")
+        print("\n" + "="*30)
+        print(f"✔ 成功產生 {OUT_FILE}")
+        print(f"✔ 總共匯出 {len(data['ai_homework']) + len(data['class_practice']) + len(data['mvp_players'])} 個檔案")
+        print("="*30)
     except Exception as e:
-        die(f"寫入檔案失敗: {e}")
+        die(f"寫入 JSON 時發生錯誤: {e}")
 
     input("\n按 Enter 鍵結束...")
 
